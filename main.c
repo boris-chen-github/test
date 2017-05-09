@@ -3,6 +3,6 @@
 
 int main (void)
 {
-
+  int idx = 0;
   return;
 }
