@@ -7,7 +7,7 @@ int main (void)
   
   for(idx=0; idx<10; idx++)
   {
-    
+	printf("I love kfc");    
   }
   
   return;
